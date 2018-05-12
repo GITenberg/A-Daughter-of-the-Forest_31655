@@ -1,0 +1,34 @@
+_repo: A-Daughter-of-the-Forest_31655
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Waugh, Ida
+    deathdate: 1919
+    gutenberg_agent_id: '35818'
+    url: http://www.gutenberg.org/2009/agents/35818
+covers:
+- cover_type: archival
+  image_path: 31655-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcc 'PZ'
+- !lcsh 'Maine -- Juvenile fiction'
+title: A Daughter of the Forest
+url: http://www.gutenberg.org/ebooks/31655
